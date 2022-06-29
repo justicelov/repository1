@@ -1,0 +1,4 @@
+print("file of branch2")
+x=25
+y=24
+print(x+y-10)
